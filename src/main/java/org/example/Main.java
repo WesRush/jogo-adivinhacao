@@ -1,4 +1,4 @@
-package org.jogo.adivinhacao;
+package org.example;
 
 import java.util.Random;
 import java.util.Scanner;

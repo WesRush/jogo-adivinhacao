@@ -45,7 +45,7 @@ O número é 37
 ```
 
 ## Melhorias Futuras
-- Implementar limite de tentativas.
+- Implementar limite de tentativas. (Aplicado)
 - Adicionar níveis de dificuldade.
 - Criar uma interface gráfica.
 

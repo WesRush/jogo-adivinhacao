@@ -30,18 +30,26 @@ Este é um simples jogo de adivinhação desenvolvido em Java. O objetivo é adi
 ## Exemplo de Execução
 ```
 -----------------Jogo da advinhação--------------------------
-Digite um número aleatório para adivinhar o número de 1 a 100!
-50
------------Tente de novo!------------
-O número é MENOR que seu palpite
-Digite seu próximo palpite:
-25
+Digite um número aleatório para adivinhar o número de  1 a 20! Você tem 5 tentativas
+1
 -----------Tente de novo!------------
 O número é MAIOR que seu palpite
-Digite seu próximo palpite:
-37
-Parabéns você acertou o número!
-O número é 37
+Digite um número aleatório para adivinhar o número de  1 a 20! Você tem 4 tentativas
+20
+-----------Tente de novo!------------
+O número é MENOR que seu palpite
+Digite um número aleatório para adivinhar o número de  1 a 20! Você tem 3 tentativas
+15
+-----------Tente de novo!------------
+O número é MAIOR que seu palpite
+Digite um número aleatório para adivinhar o número de  1 a 20! Você tem 2 tentativas
+18
+-----------Tente de novo!------------
+O número é MENOR que seu palpite
+Digite um número aleatório para adivinhar o número de  1 a 20! Você tem 1 tentativas
+17
+-----------Que pena, você perdeu!------------
+O número certo era: 16
 ```
 
 ## Melhorias Futuras

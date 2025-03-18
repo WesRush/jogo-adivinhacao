@@ -135,21 +135,3 @@ public class Main {
 
 
 
-
-
-//        do {
-//        if (palpite > numAleatorio) {
-//        System.out.println("-----------Tente de novo!------------");
-//                    System.out.println("O número é MENOR que seu palpite");
-//                    System.out.println("Digite seu próximo palpite: ");
-//
-//palpite = sc.nextInt();
-//
-//                } else if (palpite < numAleatorio) {
-//        System.out.println("-----------Tente de novo!------------");
-//                    System.out.println("O número é MAIOR que seu palpite");
-//                    System.out.println("Digite seu próximo palpite: ");
-//
-//palpite = sc.nextInt();
-//
-//                }

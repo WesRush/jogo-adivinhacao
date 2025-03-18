@@ -34,6 +34,7 @@ Este é um jogo de adivinhação desenvolvido em Java, onde o objetivo é adivin
 
 ## Exemplo de Execução
 ```
+
 -----------------Jogo da adivinhação--------------------------
 Escolha o nível do jogo:
 1. Fácil
